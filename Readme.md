@@ -1,4 +1,4 @@
-# Only tested on Mac go ahead and try on other devices too!
+### Only tested on Mac go ahead and try on other devices too!
 
 ## Instructions:
 
