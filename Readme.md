@@ -1,6 +1,6 @@
-#Only tested on Mac go ahead and try on other devices too!
+# Only tested on Mac go ahead and try on other devices too!
 
-#Instructions:
+## Instructions:
 
 1. First Install portaudio on your MacOs using ```brew install portaudio```
 2. Then install pyaudio using ```pip install --global-option='build_ext' --global-option='-I/usr/local/include' --global-option='-L/usr/local/lib' pyaudio```
